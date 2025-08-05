@@ -13,4 +13,10 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 
 ---
 
-[![Skills](https://skillicons.dev/icons?i=py,go,js,ts,react&perline=3)](https://skillicons.dev)
+<h2 align="center">🛠️ My Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,js,ts,react&perline=5" alt="Skill Icons" />
+  </a>
+</p>
