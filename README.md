@@ -24,9 +24,6 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; padding: 0; vertical-align: top;">
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>lost self</b></li>
-      </ul>
     </td>
     <td style="border: none; padding: 0; text-align: right;">
       <img 
