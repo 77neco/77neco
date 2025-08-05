@@ -12,3 +12,5 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 ```
 
 ---
+
+[![Skills](https://skillicons.dev/icons?i=py,go,js,ts,react&perline=3)](https://skillicons.dev)
