@@ -30,7 +30,12 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
       </ul>
     </td>
     <td style="border: none; padding: 0; text-align: right;">
-      <img alt="GIF" src="https://i.pinimg.com/originals/c4/37/12/c43712af49b76ffbf268dd254800624d.gif" width="450" height="300" style="margin-left: auto; display: block;" />
-    </td>
+      <img 
+        alt="GIF" 
+        src="https://i.pinimg.com/originals/c4/37/12/c43712af49b76ffbf268dd254800624d.gif" 
+        width="450" 
+        height="300" 
+        style="margin: 0 auto; display: block; object-fit: cover; object-position: center;" />
+      </td>
   </tr>
 </table>
